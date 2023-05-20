@@ -1,0 +1,3 @@
+Objetivo:
+Crear un programa que administre una fila de banco. El banco posé una cantidad determinada de mesas en las cuales los clientes podrán realizar sus consultas.
+El programa debe informarles a los clientes quién es el que sigue para ser atendido así como el número de mesa al que deben ir. Las mesas deben poder informarle al programa que la consulta ha terminado y que el siguiente cliente puede acercarse a ella a consultar.
